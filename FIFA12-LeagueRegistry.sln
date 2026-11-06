@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{BC8A1FFA-BEE3-4634-8014-F334798102B3}") = "FIFA12LeagueRegistry", "source\FIFA12LeagueRegistry.vcxproj", "{5DB13D86-9624-4EB2-B11F-82174BD50304}"
+EndProject
+Project("{BC8A1FFA-BEE3-4634-8014-F334798102B3}") = "PluginFixtureTests", "source\FixtureTests.vcxproj", "{7CF3325C-8264-45C8-BB8D-68A9F5CB633D}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Release|Win32 = Release|Win32
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {5DB13D86-9624-4EB2-B11F-82174BD50304}.Release|Win32.ActiveCfg = Release|Win32
+        {5DB13D86-9624-4EB2-B11F-82174BD50304}.Release|Win32.Build.0 = Release|Win32
+        {7CF3325C-8264-45C8-BB8D-68A9F5CB633D}.Release|Win32.ActiveCfg = Release|Win32
+        {7CF3325C-8264-45C8-BB8D-68A9F5CB633D}.Release|Win32.Build.0 = Release|Win32
+    EndGlobalSection
+EndGlobal
